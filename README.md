@@ -2,6 +2,13 @@
 
 This is a simple e-commerce application built with React that allows users to browse products and add them to a shopping cart. The application fetches product data from a fake store API and provides a responsive design that works well on both desktop and mobile devices.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#Usage)
+
 ## Features
 
 - Fetch products from the [Fake Store API](https://fakestoreapi.com).
